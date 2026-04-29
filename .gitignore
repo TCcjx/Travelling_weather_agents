@@ -41,7 +41,7 @@ Thumbs.db
 .env
 
 # Charts output (generated files)
-weather_charts/*.png
+# weather_charts/*.png
 
 # Logs
 *.log
