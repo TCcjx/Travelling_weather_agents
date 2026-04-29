@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(curl -s -X POST https://luckyapi.chat/v1/chat/completions -H 'Authorization: Bearer sk-fWXCptihGjL3tHFvWgJL1iyJYlc2QwAJWxmHXb6wqK0723qv' -H 'Content-Type: application/json' -d '{\"model\":\"z-ai/glm-4.5-air:free\",\"messages\":[{\"role\":\"user\",\"content\":\"你好\"}],\"stream\":false}')",
+      "Bash(.venv/Scripts/python -c ' *)",
+      "Bash(.venv/Scripts/python *)"
+    ]
+  }
+}
